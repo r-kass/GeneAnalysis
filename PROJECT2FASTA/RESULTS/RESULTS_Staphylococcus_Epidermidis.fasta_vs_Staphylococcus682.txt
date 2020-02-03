@@ -1,0 +1,21 @@
+Maximum percentage of identical matches = 100.0
+
+Maximum alignment length = 40787.0
+
+Maximum number of mismatches = 512.0
+
+Maximum expect value = 5.38e-12
+
+Maximum bitscore = 72347.0
+
+Average percentage of identical matches = 88.10473214285717
+
+Average alignment length = 1535.2857142857142
+
+Average number of mismatches = 63.82142857142857
+
+Average expect value = 1.1316342364625474e-13
+
+Average bitscore = 2422.598214285714
+
+
